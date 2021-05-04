@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/freejonm/burger/issues"
   },
-  "homepage": "https://github.com/freejonm/burger#readme"
+  "homepage": "https://github.com/freejonm/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
